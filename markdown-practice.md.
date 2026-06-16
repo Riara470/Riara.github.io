@@ -9,7 +9,14 @@ https://github.com
 2. Stage the change with git add
 3.commit your message
 4.Push to the remote with git push
-ool	Purpose	Link
-ChatGPT	Generate text, answer questions, and assist with research	ChatGPT
-GitHub	Host, manage, and collaborate on software projects	GitHub Home
-Notion	Organize notes, tasks, and project documentation	Notion Home
+|Github |Host            | Github Home|
+|Notion | Organize Notes | Notion Home|
+|Copilot| Answer question| Copilot AI |
+-[x]creating a github account
+-[]know how to creating website
+-[]HTML
+-[]ProgrammingLanguage
+```python
+print("Hello, world!")
+```
+>I have learned how to write a markdown. 
